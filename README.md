@@ -77,7 +77,7 @@ A list of productivity sites (AI and more)
 <ul>
     <li><a href="https://developers.google.com/edu/python/set-up">🐍 Python Google</a> - Official setup guide for Python development.</li>
     <li><a href="https://courses.corporatefinanceinstitute.com/collections/free">📚 Free Courses - Browse All Classes</a> - Explore a variety of free finance courses.</li>
-    <li><a href="https://www.greatlearning.in/academy">📩 (3) New Messages!</a> - Stay updated with new courses and offers.</li>
+    <li><a href="https://www.greatlearning.in/academy">📩 Great Learning</a> - Stay updated with new courses and offers.</li>
     <li><a href="https://skillshop.exceedlms.com/student/catalog/list?category_ids=6434-google-analytics-4">📊 Google Analytics 4: Google</a> - Learn how to analyze data with GA4.</li>
     <li><a href="https://ocw.mit.edu/">🏫 MIT OpenCourseWare</a> - Access a wealth of free course materials from MIT.</li>
 </ul>
