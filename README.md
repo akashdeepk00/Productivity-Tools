@@ -9,6 +9,7 @@ A list of productivity sites (AI and more)
    <li><a href="https://prbay.top/">⚓ PrBay.top</a></li>
    <li><a href="https://prbay.online/">🚀 PrBay.online</a></li>
    <li><a href="https://prbay.xyz/">🗺️ PrBay.xyz</a></li>
+   <li><a href="https://ninjaproxy1.com/">🛡️ Ninja Proxy</a> - Home for all the TOP Torrent sites with proxy. Go Crazy!</li>
 </ul>
 
 <h1>TOOLS</h1>
@@ -36,7 +37,6 @@ A list of productivity sites (AI and more)
     <li><a href="https://www.diffchecker.com/">🆚 Diffchecker</a> - Effortlessly compare text files to spot differences.</li>
     <li><a href="https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests">📊 Flesch–Kincaid Readability Tests</a> - Evaluate the readability level of your text.</li>
     <li><a href="https://www.onelook.com/thesaurus/">🔍 OneLook Thesaurus</a> - Quickly find synonyms and related terms.</li>
-    <li><a href="https://ninjaproxy1.com/">🛡️ Ninja Proxy</a> - Securely access restricted content.</li>
 </ul>
 
 <h1>🤖 AI Tools</h1>
