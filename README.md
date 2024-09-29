@@ -11,14 +11,13 @@ A list of productivity sites (AI and more)
    <li>🛡️ <a href="https://proxyium.com/" target="_blank">Proxyium</a> - Browse securely with proxy services.</li>
 </ul>
 <h1>🎥 Media</h1>
-<ul>
-   <li><a href="https://fmovies.ps/home" target="_blank">FMovies</a> - Stream movies and TV shows free.</li>
-   <li><a href="https://animesuge.com.in/" target="_blank">Animesuge</a> - Stream anime shows and movies free.</li>
-   <li><a href="https://hianime.to/" target="_blank">HiAnime</a> - Watch high-quality anime online.</li>
-   <li><a href="https://aniplaynow.live/" target="_blank">AniPlayNow</a> - Enjoy anime streaming without ads.</li>
-   <li><a href="https://aniwave.lv/" target="_blank">AniWave</a> - Stream anime series and movies online.</li>
-   <li><a href="https://watchseries.bar/home" target="_blank">WatchSeries</a> - Watch TV series and movies for free.</li>
-</ul>
+
+| Movies and Series                                    | Anime                          |
+|-----------------------------------------------------|--------------------------------|
+| [FMovies](https://fmovies.ps/home)                  | [Animesuge](https://animesuge.com.in/) |
+| [WatchSeries](https://watchseries.bar/home)         | [HiAnime](https://hianime.to/) |
+|                                                     | [AniPlayNow](https://aniplaynow.live/) |
+|                                                     | [AniWave](https://aniwave.lv/) |
 <h1>Tools</h1>
 <ul>
    <li><a href="https://24slides.com/templates/featured">🎨 Free PowerPoint Templates by 24Slides</a> - Elevate your presentations professionally designed templates.</li>
@@ -63,7 +62,6 @@ A list of productivity sites (AI and more)
    <li><a href="https://data.gov.in/" target="_blank">data.gov.in</a> - Access open government data from India.</li>
    <li><a href="https://www.gapminder.org/" target="_blank">Gapminder</a> - Visualize global statistics for a fact-based worldview.</li>
 </ul>
-</ul>
 <h1>Vocabulary</h1>
 <ul>
    <li><a href="https://www.onelook.com/thesaurus/">🔍 OneLook Thesaurus</a> - Quickly find synonyms and related terms.</li>
@@ -72,7 +70,7 @@ A list of productivity sites (AI and more)
    <li><a href="https://www.thoughtco.com/list-of-transition-words-1857002">🔗 Transitional Phrases</a> - Enhance your writing flow with essential connectors.</li>
    <li>💡 <a href="https://smartblogger.com/power-words/" target="_blank">317 Power Words</a> - Boost your writing with impactful words.</li>
 </ul>
-<h2>French</h2>
+<h1>French</h1>
 <ul>
    <li><a href="https://lingua.com/french/reading/jessica/" target="_blank">Je m’appelle Jessica</a> - Beginner French reading practice text.</li>
    <li><a href="https://www.wes.org/advisor-blog/french-language-proficiency-tests-canada/" target="_blank">French Language Proficiency Tests in Canada</a> - Guide to French tests for immigration or study.</li>
@@ -117,6 +115,7 @@ A list of productivity sites (AI and more)
    <h2>GitHub</h2>
    <li><a href="https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a">💻 MS Office Activated MacOS</a> - CRACKED MS Office on GitHub for Mac.</li>
    <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">🔑 Microsoft Activation Scripts</a> - GitHub for Open-source tools for activating Windows and Office.</li>
+   <h3>MongoDB</h3>
    <li><a href="https://www.mongodb.com/docs/manual/reference/operator/query/regex/" target="_blank">$regex — MongoDB Manual</a> - Learn how to use regex in MongoDB queries.</li>
    <li><a href="https://stackoverflow.com/questions/3305561/how-to-query-mongodb-with-like" target="_blank">How to query MongoDB with "like"</a> - Stack Overflow solution for using "like" queries in MongoDB.</li>
    <li><a href="https://stackoverflow.com/questions/25589113/how-to-select-a-single-field-for-all-documents-in-a-mongodb-collection" target="_blank">How to select a single field in MongoDB</a> - Guide on MongoDB projections for field selection.</li>
