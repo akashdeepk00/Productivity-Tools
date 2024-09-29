@@ -10,12 +10,21 @@ A list of productivity sites (AI and more)
    <li><a href="https://prbay.online/">🚀 PrBay.online</a></li>
    <li><a href="https://prbay.xyz/">🗺️ PrBay.xyz</a></li>
    <li><a href="https://ninjaproxy1.com/">🛡️ Ninja Proxy</a> - Home for all the TOP Torrent sites with proxy. Go Crazy!</li>
+   <li>🛡️ <a href="https://proxyium.com/" target="_blank">Proxyium</a> - Browse securely with proxy services.</li>
 </ul>
 
-<h1>TOOLS</h1>
+<h1>🎥 Media</h1>
 <ul>
-   <li><a href="https://annas-archive.org/">📚 Anna’s Archive</a> - Dive into a treasure trove of books and resources for every knowledge seeker.</li>
-   <li><a href="https://freedium.cfd/">🚀 Freedium</a> - Bypass Medium's paywall and access articles freely and effortlessly.</li>
+   <li><a href="https://fmovies.ps/home" target="_blank">FMovies</a> - Stream movies and TV shows free.</li>
+   <li><a href="https://animesuge.com.in/" target="_blank">Animesuge</a> - Stream anime shows and movies free.</li>
+   <li><a href="https://hianime.to/" target="_blank">HiAnime</a> - Watch high-quality anime online.</li>
+   <li><a href="https://aniplaynow.live/" target="_blank">AniPlayNow</a> - Enjoy anime streaming without ads.</li>
+   <li><a href="https://aniwave.lv/" target="_blank">AniWave</a> - Stream anime series and movies online.</li>
+   <li><a href="https://watchseries.bar/home" target="_blank">WatchSeries</a> - Watch TV series and movies for free.</li>
+</ul>
+
+<h1>Tools</h1>
+<ul>
    <li><a href="https://24slides.com/templates/featured">🎨 Free PowerPoint Templates by 24Slides</a> - Elevate your presentations professionally designed templates.</li>
    <li><a href="https://squoosh.app/editor">📸 Squoosh</a> - Unleash the power of compression and shrink your images without sacrificing quality!</li>
    <li><a href="https://www.docsketch.com/online-signature/draw/">✍️ Online Signature Draw - Docsketch</a> - Sign documents digitally with style.</li>
@@ -29,17 +38,46 @@ A list of productivity sites (AI and more)
    <li><a href="https://instacalc.com/">🧮 InstaCalc Online Calculator</a> - Perform calculations on the fly with this no-fuss online calculator.</li>
    <li><a href="https://spotifydown.com/">🎶 Spotify Downloader</a> - Convert your favorite Spotify tracks into MP3s with just a click!</li>
    <li><a href="https://excalidraw.com/">✏️ Excalidraw</a> - Collaborate and create hand-drawn diagrams with ease and creativity.</li>
+   <li>📥 <a href="https://inboxes.com/" target="_blank">Inboxes</a> - Disposable email hosting service.</li>
+   <li>⚙️ <a href="https://mail.google.com/mail/u/0/#settings/filters" target="_blank">Gmail Filters</a> - Automatically organize emails with filters.</li>
 </ul>
 
-<h2>✍️ Language Editing Tools</h2>
+<h1>Reading</h1>
 <ul>
-    <li><a href="https://www.thoughtco.com/list-of-transition-words-1857002">🔗 Transitional Phrases</a> - Enhance your writing flow with essential connectors.</li>
-    <li><a href="https://www.diffchecker.com/">🆚 Diffchecker</a> - Effortlessly compare text files to spot differences.</li>
-    <li><a href="https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests">📊 Flesch–Kincaid Readability Tests</a> - Evaluate the readability level of your text.</li>
-    <li><a href="https://www.onelook.com/thesaurus/">🔍 OneLook Thesaurus</a> - Quickly find synonyms and related terms.</li>
+   <li><a href="https://annas-archive.org/">📚 Anna’s Archive</a> - Dive into a treasure trove of books and resources for every knowledge seeker.</li>
+   <li>📚 <a href="https://play.google.com/books" target="_blank">Google Play Books</a> - Read ebooks and audiobooks anywhere.</li>
+   <li>📖 <a href="https://www.notion.so/akashdeeppersonal/My-Reading-List-387b7763f5a84d64bad6ca095dceb998" target="_blank">My Books List (Notion)</a> - Track and organize.</li>
+   <li>🔖 <a href="https://getpocket.com/" target="_blank">Pocket</a> - Save and read articles offline.</li>
+   <li><a href="https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests">📊 Flesch–Kincaid Readability Tests</a> - Evaluate the readability level of your text.</li>
+   <li><a href="https://freedium.cfd/">🚀 Freedium</a> - Bypass Medium's paywall and access articles freely and effortlessly.</li>
+   <ul>
+  <li>🚀 <a href="https://www.producthunt.com/" target="_blank">Product Hunt</a> - Discover the best new tech products.</li>
+  <li>📰 <a href="http://www.theverge.com/" target="_blank">The Verge</a> - Latest tech, science, and culture news.</li>
+  <li>🌍 <a href="https://futurism.com/" target="_blank">Futurism</a> - Explore the future of technology and science.</li>
+  <li>💻 <a href="https://www.digit.in/" target="_blank">Digit</a> - Tech advice, reviews, and latest news.</li>
+  <li>🛠️ <a href="https://www.cnet.com/" target="_blank">CNET</a> - Tech product reviews, how-tos, and deals.</li>
+  <li>📖 <a href="https://english.stackexchange.com/" target="_blank">English Stack Exchange</a> - Discuss English language and usage topics.</li>
+  <li>🧠 <a href="https://fs.blog/" target="_blank">Farnam Street</a> - Learn faster, think better, make smart decisions.</li>
+  <li>📈 <a href="https://stratechery.com/" target="_blank">Stratechery</a> - Insights on tech business and strategy.</li>
+  <li>📊 <a href="http://www.informationisbeautiful.net/" target="_blank">Information is Beautiful</a> - Data visualized beautifully.</li>
+  <li>📚 <a href="https://www.short-story.me/" target="_blank">Short Stories</a> - Read short stories online for free.</li>
+  <li>📉 <a href="https://www.emarketer.com/" target="_blank">eMarketer</a> - Data and insights on digital marketing trends.</li>
+  <li>🔍 <a href="https://www.wolframalpha.com/" target="_blank">Wolfram|Alpha</a> - Powerful computational knowledge engine.</li>
+  <li>🎓 <a href="https://ocw.mit.edu/" target="_blank">MIT OpenCourseWare</a> - Free online course materials from MIT.</li>
 </ul>
 
-<h1>🤖 AI Tools</h1>
+</ul>
+
+<h1>Vocabulary</h1>
+<ul>
+   <li><a href="https://www.onelook.com/thesaurus/">🔍 OneLook Thesaurus</a> - Quickly find synonyms and related terms.</li>
+   <li><a href="https://www.diffchecker.com/">🆚 Diffchecker</a> - Effortlessly compare text files to spot differences.</li>
+   <li>📚 <a href="https://www.powerthesaurus.org/" target="_blank">Power Thesaurus</a> - Find synonyms and antonyms instantly.</li>
+   <li><a href="https://www.thoughtco.com/list-of-transition-words-1857002">🔗 Transitional Phrases</a> - Enhance your writing flow with essential connectors.</li>
+   <li>💡 <a href="https://smartblogger.com/power-words/" target="_blank">317 Power Words</a> - Boost your writing with impactful words.</li>
+</ul>
+
+<h1>AI Tools</h1>
 <ul>
     <li><a href="https://vanceai.com/workspace/">✨ VanceAI Image Enhance</a> - Elevate your images with cutting-edge AI enhancements.</li>
     <li><a href="https://theresanaiforthat.com/">📚 There's An AI For That</a> - Explore a treasure trove of AI tools for every need.</li>
@@ -68,9 +106,10 @@ A list of productivity sites (AI and more)
     <li><a href="https://docs.python.org/3/tutorial/datastructures.html">📚 Data Structures - Python Documentation</a> - Learn about Python's built-in data structures.</li>
     <li><a href="https://docs.python.org/3/library/functions.html">🔧 Built-in Functions - Python Documentation</a> - Explore Python's essential built-in functions.</li>
     <li><a href="https://patorjk.com/software/taag/">🎨 Text to ASCII Art Generator (TAAG)</a> - Create stylish ASCII art from text.</li>
-    <li><a href="https://pythontutor.com/python-debugger.html">🐍 Python Tutor</a> - Visualize and debug your Python code online.</li>
+    <li><a href="https://pythontutor.com/python-debugger.html">🐍 Python Tutor</a> - Visualize and debug your Python code online.</li><br>
+   <h2>GitHub</h2>
     <li><a href="https://gist.github.com/zthxxx/9ddc171d00df98cbf8b4b0d8469ce90a">💻 MS Office Activated MacOS</a> - CRACKED MS Office on GitHub for Mac.</li>
-    <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">🔑 Microsoft Activation Scripts</a> - GITHUB for Open-source tools for activating Windows and Office.</li>
+    <li><a href="https://github.com/massgravel/Microsoft-Activation-Scripts">🔑 Microsoft Activation Scripts</a> - GitHub for Open-source tools for activating Windows and Office.</li>
 </ul>
 
 <h1>🎓 Free Courses</h1>
@@ -80,4 +119,10 @@ A list of productivity sites (AI and more)
     <li><a href="https://www.greatlearning.in/academy">📩 Great Learning</a> - Stay updated with new courses and offers.</li>
     <li><a href="https://skillshop.exceedlms.com/student/catalog/list?category_ids=6434-google-analytics-4">📊 Google Analytics 4: Google</a> - Learn how to analyze data with GA4.</li>
     <li><a href="https://ocw.mit.edu/">🏫 MIT OpenCourseWare</a> - Access a wealth of free course materials from MIT.</li>
+</ul>
+<h1>Options</h1>
+<ul>
+  <li>📊 <a href="https://web.sensibull.com/option-strategy-builder?instrument_symbol=NIFTY" target="_blank">Sensibull</a> - Build and analyze options strategies easily.</li>
+  <li>📈 <a href="https://www.stockmock.in/#!" target="_blank">StockMock</a> - Backtest and optimize options strategies.</li>
+  <li>🧠 <a href="https://opstra.definedge.com/strategy-builder" target="_blank">Opstra</a> - Create and analyze trading strategies.</li>
 </ul>
