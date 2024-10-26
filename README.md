@@ -1,23 +1,21 @@
 # Productivity-Tools
 A list of productivity sites (AI and more)
-<h1>🏴‍☠️ Pirate Bay Proxy List</h1>
+<h1>🏴‍☠️ Proxy List</h1>
 <p><strong>Unlock The Pirate Bay from anywhere!</strong> Use these proxy links to sail past any restrictions in your country and enjoy seamless access to your favorite content.</p>
 <ul>
-   <li><a href="https://piratebayproxy.net/">🌐 PirateBayProxy.net</a></li>
-   <li><a href="https://prbay.top/">⚓ PrBay.top</a></li>
-   <li><a href="https://prbay.online/">🚀 PrBay.online</a></li>
-   <li><a href="https://prbay.xyz/">🗺️ PrBay.xyz</a></li>
    <li><a href="https://ninjaproxy1.com/">🛡️ Ninja Proxy</a> - Home for all the TOP Torrent sites with proxy. Go Crazy!</li>
-   <li>🛡️ <a href="https://proxyium.com/" target="_blank">Proxyium</a> - Browse securely with proxy services.</li>
+   <li><a href="https://piratebayproxy.net/">🌐 PirateBayProxy.net</a></li>
+   <li><a href="https://prbay.xyz/">🗺️ PrBay.xyz</a></li>
+   <li>🚀 <a href="https://proxyium.com/" target="_blank">Proxyium</a> - Browse securely with proxy services.</li>
 </ul>
 <h1>🎥 Media</h1>
 
-| Movies and Series                                    | Anime                          |
-|-----------------------------------------------------|--------------------------------|
-| [FMovies](https://fmovies.ps/home)                  | [Animesuge](https://animesuge.com.in/) |
-| [WatchSeries](https://watchseries.bar/home)         | [HiAnime](https://hianime.to/) |
-|                                                     | [AniPlayNow](https://aniplaynow.live/) |
-|                                                     | [AniWave](https://aniwave.lv/) |
+| All Media                                           | Movies and Series                                   | Anime                          |
+|-----------------------------------------------------|-----------------------------------------------------|--------------------------------|
+| [Yaarlist](https://www.yarrlist.com/)               | [FMovies](https://fmovies.ps/home)                  | [Animesuge](https://animesuge.com.in/) |
+| [The Best Couch Potato list](https://n3rdmade.github.io/TBCPL/) | [WatchSeries](https://watchseries.bar/home) | [HiAnime](https://hianime.to/) |
+|                                                     |                                                     | [AniPlayNow](https://aniplaynow.live/) |
+|                                                     |                                                     | [AniWave](https://aniwave.lv/) |
 <h1>Tools</h1>
 <ul>
    <li><a href="https://24slides.com/templates/featured">🎨 Free PowerPoint Templates by 24Slides</a> - Elevate your presentations professionally designed templates.</li>
