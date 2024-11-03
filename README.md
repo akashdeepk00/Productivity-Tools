@@ -35,6 +35,7 @@ A list of productivity sites (AI and more)
    <li>⚙️ <a href="https://mail.google.com/mail/u/0/#settings/filters" target="_blank">Gmail Filters</a> - Automatically organize emails with filters.</li>
    <li><a href="https://myaccount.google.com/device-activity?continue=https://myaccount.google.com/security&utm_source=gcomydevices" target="_blank">Your devices</a> - Manage and review devices connected to your Google account.</li>
    <li>🔍 <a href="https://www.wolframalpha.com/" target="_blank">Wolfram|Alpha</a> - Powerful computational knowledge engine.</li>
+   <li>🔖 <a href="https://snapdrop.net/" target="_blank">Snapdrop</a> - <strong>Send and receive files between MacOS and Android</strong></li>      
 </ul>
 <h1>Reading</h1>
 <ul>
