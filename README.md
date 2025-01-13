@@ -4,7 +4,6 @@ A list of productivity sites (AI and more)
 <p><strong>Unlock The Pirate Bay from anywhere!</strong> Use these proxy links to sail past any restrictions in your country and enjoy seamless access to your favorite content.</p>
 <ul>
    <li><a href="https://ninjaproxy1.com/">🛡️ Ninja Proxy</a> - Home for all the TOP Torrent sites with proxy. Go Crazy!</li>
-   <li><a href="https://piratebayproxy.net/">🌐 PirateBayProxy.net</a></li>
    <li><a href="https://prbay.xyz/">🗺️ PrBay.xyz</a></li>
    <li>🚀 <a href="https://proxyium.com/" target="_blank">Proxyium</a> - Browse securely with proxy services.</li>
 </ul>
@@ -14,27 +13,29 @@ A list of productivity sites (AI and more)
 |-----------------------------------------------------|-----------------------------------------------------|--------------------------------|
 | [Yaarlist](https://www.yarrlist.com/)               | [FMovies](https://fmovies.ps/home)                  | [Animesuge](https://animesuge.com.in/) |
 | [The Best Couch Potato list](https://n3rdmade.github.io/TBCPL/) | [WatchSeries](https://watchseries.bar/home) | [HiAnime](https://hianime.to/) |
-|                                                     |                                                     | [AniPlayNow](https://aniplaynow.live/) |
+|                                                     | https://alphatron.tv/home                           | [AniPlayNow](https://aniplaynow.live/) |
 |                                                     |                                                     | [AniWave](https://aniwave.lv/) |
 <h1>Tools</h1>
 <ul>
-    <li><a href="https://24slides.com/templates/featured">🎨 PowerPoint Templates - 24Slides</a> - Elevate your presentations professional templates.</li>
-    <li><a href="https://squoosh.app/editor">📸 Squoosh</a> - Unleash the power of compression and shrink your images without sacrificing quality!</li>
-    <li><a href="https://www.docsketch.com/online-signature/draw/">✍️ Online Signature Draw - Docsketch</a> - Sign documents digitally with style.</li>
-    <li><a href="http://www.easybengalityping.com/">🖋️ সহজ বাংলা টাইপিং</a> - Effortlessly type in Bengali.</li>
-    <li><a href="https://saurabhdaware.github.io/text-to-handwriting/">📝 Text to Handwriting</a> - Transform your typed words into beautiful handwritten notes in seconds!</li>
-    <li><a href="https://developers.google.com/speed/pagespeed/insights/">⚡ PageSpeed Insights</a> - Optimize your website's performance with actionable insights from Google.</li>
-    <li><a href="https://dashboard.blomp.com/dashboard/files">☁️ Blomp Cloud</a> - Enjoy 200 GB of free cloud storage.</li>
-    <li><a href="https://www.remove.bg/">🖼️ Remove Background</a> - Remove backgrounds from images with clarity!</li>
-    <li><a href="https://app.flow.ai/login">🌊 Flow.ai</a> - Manage your AI chatbots effortlessly with a streamlined, intuitive interface.</li>
-    <li><a href="https://instacalc.com/">🧮 InstaCalc Online Calculator</a> - Perform calculations on the fly with this no-fuss online calculator.</li>
-    <li><a href="https://spotifydown.com/">🎶 Spotify Downloader</a> - Convert your favorite Spotify tracks into MP3s with just a click!</li>
-    <li><a href="https://excalidraw.com/">✏️ Excalidraw</a> - Collaborate and create hand-drawn diagrams with ease and creativity.</li>
-    <li>📥 <a href="https://inboxes.com/" target="_blank">Inboxes</a> - Disposable email hosting service.</li>
-    <li>🔍 <a href="https://www.wolframalpha.com/" target="_blank">Wolfram|Alpha</a> - Powerful computational knowledge engine.</li>
-    <li>🔖 <a href="https://snapdrop.net/" target="_blank">Snapdrop</a> - <strong>Send and receive files between MacOS and Android</strong></li>
-    <li><a href="https://urlclean.com/">🔗 URL Cleaner</a> - Safely clean URLs and remove harmful content.</li>
-    <li><a href="https://html.onlineviewer.net/">🌐 HTML Online formatter</a> - View and test your HTML code online instantly.</li>
+<li>🎨 <a href="https://24slides.com/templates/featured" target="_blank">24Slides</a> - PowerPoint Templates</li>
+<li>📸 <a href="https://squoosh.app/editor" target="_blank">Squoosh</a> - Image Compression</li>
+<li>🖋️ <a href="http://www.easybengalityping.com/" target="_blank">সহজ বাংলা টাইপিং</a> - Bengali Typing</li>
+<li>📝 <a href="https://saurabhdaware.github.io/text-to-handwriting/" target="_blank">Text to Handwriting</a> - Handwritten Notes</li>
+<li>⚡ <a href="https://developers.google.com/speed/pagespeed/insights/" target="_blank">PageSpeed Insights</a> - Optimize Performance</li>
+<li>☁️ <a href="https://dashboard.blomp.com/dashboard/files" target="_blank">Blomp Cloud</a> - Free Cloud Storage</li>
+<li>🖼️ <a href="https://www.remove.bg/" target="_blank">Remove.bg</a> - Background Removal</li>
+<li>🌊 <a href="https://app.flow.ai/login" target="_blank">Flow.ai</a> - AI Chatbot Management</li>
+<li>🧮 <a href="https://instacalc.com/" target="_blank">InstaCalc</a> - Online Calculator</li>
+<li>🎶 <a href="https://spotifydown.com/" target="_blank">Spotify Downloader</a> - Convert to MP3</li>
+<li>✏️ <a href="https://excalidraw.com/" target="_blank">Excalidraw</a> - Hand-drawn Diagrams</li>
+<li>📥 <a href="https://inboxes.com/" target="_blank">Inboxes</a> - Disposable Email</li>
+<li>🔍 <a href="https://www.wolframalpha.com/" target="_blank">Wolfram|Alpha</a> - Knowledge Engine</li>
+<li>🔖 <a href="https://snapdrop.net/" target="_blank">Snapdrop</a> - File Transfer</li>
+<li>🔗 <a href="https://urlclean.com/" target="_blank">URL Cleaner</a> - Clean URLs</li>
+<li>🌐 <a href="https://html.onlineviewer.net/" target="_blank">HTML Online Formatter</a> - View HTML</li>
+<li>🔄 <a href="https://convertio.co/" target="_blank">Convertio</a> - File Conversion</li>
+<li>📤 <a href="https://localsend.org/" target="_blank">LocalSend</a> - Local File Transfer</li>
+
 </ul>
 <h1>AI Tools</h1>
 <ul>
